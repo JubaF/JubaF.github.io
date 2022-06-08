@@ -1,4 +1,4 @@
-.## A. Énoncé du Projet
+## A. Énoncé du Projet
 
 J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations des astronomes du Québec) pour l'observation d'éclipse solaire.
 

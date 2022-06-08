@@ -11,7 +11,7 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
   - L'application devra utiliser Flutter (kit de développement Cross plateforme)
   - L'application doit être en Français et Anglais
   - L'application doit pouvoir envoyer des notifications (Audios + textes)
-  - L'application doit afficher le décompte temporels avant les prochains évènements
+  - L'application doit afficher le décompte temporel avant les prochains évènements
   - L'application doit pouvoir calculer des circonstances de l'éclipse:
     - Début de la phase partielle : premier contact (C1);
     - Début de la totalité : second contact (C2);
@@ -32,7 +32,13 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
   - Tests de l'application
 
 ## C. Plan de travail
-  - Début de début et fin du projet: 26 mai au 31 juillet 
+  ### Date de début et fin du projet (26 mai au 31 juillet)
+  - **26 mai au 9 juin** -> Design de l'application
+  - **10 juin au 31 juin** -> Développement du Frontend
+  - **10 juin au 31 juin** -> Développement de l'algorithme (Prédiction éclipse en fonction de la localisation et date)
+  - **1er juillet au 14 juillet** -> Développement de la base de donnée locale pour le state management de l'application
+  - **1er juillet au 14 juillet** -> Finaliser l'interaction des différents bouttons de l'application mobiles avec l'algorithme.
+  - **15 juillet au 31 juillet** ->Tests de l'application
 
 ## D. Rapports d'avancement
 

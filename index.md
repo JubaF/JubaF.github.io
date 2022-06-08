@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## A. Énoncé du Projet
 
-You can use the [editor on GitHub](https://github.com/JubaF/JubaF.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations des astronomes du Québec) pour l'observation d'éclipse solaire.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## B. Description
 
-### Markdown
+### Titre: 
+Éclipse Solaire
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Besoins
+    - L'application devra utiliser Flutter (kit de développement Cross plateforme) et Dart comme language de programmation
+    - L'application doit être en Français et Anglais
+    - L'application doit pouvoir envoyer des notifications (Audios + textes) à des moments prédeterminé
+    - L'application doit afficher le décompte temporels avant les prochains évènements
+    - L'application doit pouvoir calculer des circonstances de l'éclipse:
+      - Début de la phase partielle : premier contact (C1);
+      - Début de la totalité : second contact (C2);
+      - Maximum de la totalité : (Max);
+      - Fin de la totalité : troisième contact (C3);
+      - Fin de la phase partielle : quatrième contact (C4).
+    - Conversion des différents temps (du temps universel vers l’heure locale)
+    
 
-```markdown
-Syntax highlighted code block
+### Architecture Logicielle
 
-# Header 1
-## Header 2
-### Header 3
+### Modules principaux de travail
+  - Design de l'application
+  - Développement du Frontend
+  - Développement de l'algorithme (Prédiction éclipse en fonction de la localisation et date)
+  - Développement de la base de donnée locale pour le state management de l'application
+  - Finaliser l'interaction des différents bouttons de l'application mobiles avec l'algorithme.
+  - Tests de l'application
 
-- Bulleted
-- List
+## C. Plan de travail
+  - Début de début et fin du projet: 26 mai au 31 juillet 
 
-1. Numbered
-2. List
+## D. Rapports d'avancement
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JubaF/JubaF.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## E. Rapport Final

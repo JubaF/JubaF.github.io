@@ -1,4 +1,4 @@
-## A. Énoncé du Projet
+.## A. Énoncé du Projet
 
 J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations des astronomes du Québec) pour l'observation d'éclipse solaire.
 
@@ -43,7 +43,7 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
 ## D. Rapports d'avancement
 
 ### 26 mai au 9 juin:
-Durant ces 2 dernières semaines, j'ai refait le design complet de l'application en tenant compte des besoins du client. Après avoir discuté, nous savons décidé de retirer l'option d'ajouter des évènements personnalisé dans la page paramètres puisque nous voulons que ça soit simple d'utilisation pour tout type d'utilisateurs. J'ai aussi ajotuer la carte dans le design puisqu'il y a de fortes chances que nous ayons assez de temps pour l'implémenter.
+Durant ces 2 dernières semaines, j'ai refait le design complet de l'application en tenant compte des besoins du client. Après avoir discuté avec M. Guay, nous savons décidé de retirer l'option d'ajouter des évènements personnalisés dans la page paramètre puisque nous voulons que ça soit simple d'utilisation pour tout type d'utilisateurs. J'ai aussi ajouté la carte dans le design puisqu'il y a de fortes chances que nous ayons assez de temps pour l'implémenter.
 
 
 

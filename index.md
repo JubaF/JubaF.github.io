@@ -8,9 +8,9 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
 Éclipse Solaire
 
 ### Besoins
-    - L'application devra utiliser Flutter (kit de développement Cross plateforme) et Dart comme language de programmation
+    - L'application devra utiliser Flutter (kit de développement Cross plateforme)
     - L'application doit être en Français et Anglais
-    - L'application doit pouvoir envoyer des notifications (Audios + textes) à des moments prédeterminé
+    - L'application doit pouvoir envoyer des notifications (Audios + textes)
     - L'application doit afficher le décompte temporels avant les prochains évènements
     - L'application doit pouvoir calculer des circonstances de l'éclipse:
       - Début de la phase partielle : premier contact (C1);

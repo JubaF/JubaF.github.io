@@ -28,12 +28,12 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
   - Développement du Frontend
   - Développement de l'algorithme (Prédiction éclipse en fonction de la localisation et date)
   - Développement de la base de donnée locale pour le state management de l'application
-  - Finaliser l'interaction des différents bouttons de l'application mobiles avec l'algorithme.
+  - Finaliser l'interaction des différents bouttons avec l'algorithme.
   - Tests de l'application
 
 ## C. Plan de travail
   ### Date de début et fin du projet (26 mai au 31 juillet)
-  - **26 mai au 9 juin** -> Design de l'application
+  - ~~**26 mai au 9 juin** -> Design de l'application~~
   - **10 juin au 31 juin** -> Développement du Frontend
   - **10 juin au 31 juin** -> Développement de l'algorithme (Prédiction éclipse en fonction de la localisation et date)
   - **1er juillet au 14 juillet** -> Développement de la base de donnée locale pour le state management de l'application

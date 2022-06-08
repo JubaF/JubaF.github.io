@@ -32,7 +32,7 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
   - Tests de l'application
 
 ## C. Plan de travail
-  ### Date de début et fin du projet (26 mai au 31 juillet)
+### Date de début et fin du projet (26 mai au 31 juillet)
   - ~~**26 mai au 9 juin** -> Design de l'application~~
   - **10 juin au 31 juin** -> Développement du Frontend
   - **10 juin au 31 juin** -> Développement de l'algorithme (Prédiction éclipse en fonction de la localisation et date)
@@ -41,6 +41,11 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
   - **15 juillet au 31 juillet** ->Tests de l'application
 
 ## D. Rapports d'avancement
+
+### 26 mai au 9 juin:
+Durant ces 2 dernières semaines, j'ai refait le design complet de l'application en tenant compte des besoins du client. Après avoir discuté, nous savons décidé de retirer l'option d'ajouter des évènements personnalisé dans la page paramètres puisque nous voulons que ça soit simple d'utilisation pour tout type d'utilisateurs. J'ai aussi ajotuer la carte dans le design puisqu'il y a de fortes chances que nous ayons assez de temps pour l'implémenter.
+
+
 
 
 ## E. Rapport Final

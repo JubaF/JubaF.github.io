@@ -45,7 +45,11 @@ J'ai comme mandat de créer une application mobile pour la FAAQ (Fédérations d
 ### 26 mai au 9 juin:
 Durant ces 2 dernières semaines, j'ai refait le design complet de l'application en tenant compte des besoins du client. Après avoir discuté avec M. Guay, nous savons décidé de retirer l'option d'ajouter des évènements personnalisés dans la page paramètre puisque nous voulons que ça soit simple d'utilisation pour tout type d'utilisateurs. J'ai aussi ajouté la carte dans le design puisqu'il y a de fortes chances que nous ayons assez de temps pour l'implémenter.
 
+### 10 mai au 20 juin:
+Durant cette période je me suis chargé de créer l'interace utilisateur de l'application. J'ai aussi créer les clé api pour pouvoir utiliser google map dans l'application android et IOS.
 
+### 21 mai au 31 juin:
+Je n'ai pas travaillé durant cette période car j'avais des examens pour mes autres cours.
 
 
 ## E. Rapport Final
